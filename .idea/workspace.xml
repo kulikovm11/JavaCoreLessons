@@ -4,42 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a177a53e-4754-4a41-9bb8-980297228f46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/extra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/extra/Models/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/extra/Models/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task1/Models/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task1/Models/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task1/Models/Geo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task1/Models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/Models/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/Models/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/Models/Ultrabook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/Models/Workstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/enums/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/enums/GPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task2/enums/RAM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task3/Models/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task3/Models/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task3/Models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2Extends/task3/enums/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Models/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Models/Drum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Models/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Models/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/Models/Trumpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/interfaces/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson3Interfaces/interfaces/Printable.java" afterDir="false" />
+    <list default="true" id="a177a53e-4754-4a41-9bb8-980297228f46" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task1/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task3/Models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task3/Models/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task3/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task3/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task4/Models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task4/Models/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4lambda/task4/Models/ZooClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +29,8 @@
       <list>
         <option value="Enum" />
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -70,48 +48,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/JavaCore/JavaCoreLessons/src/main/java/lesson4lambda/task2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lesson3Interfaces.Main">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaCore\JavaCoreLessons\src\main\java\lesson4lambda\task2" />
+      <recent name="E:\JavaCore\JavaCoreLessons\src\main\java\lesson4lambda\Models" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson3lambda" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson3lambda.enums" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lesson3lambda.Main">
     <configuration name="Lesson2Extends.extra.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2Extends.extra.Main" />
       <module name="JavaCoreLessons" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson2Extends.extra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson2Extends.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2Extends.task2.Main" />
-      <module name="JavaCoreLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2Extends.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson2Extends.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2Extends.task3.Main" />
-      <module name="JavaCoreLessons" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2Extends.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +98,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2Extends.task1.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson4lambda.task1.Main" />
       <module name="JavaCoreLessons" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2Extends.task1.*" />
+          <option name="PATTERN" value="lesson4lambda.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson4lambda.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4lambda.task2.Main" />
+      <module name="JavaCoreLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4lambda.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson4lambda.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4lambda.task3.Main" />
+      <module name="JavaCoreLessons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4lambda.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson3lambda.Main" />
+        <item itemvalue="Application.lesson4lambda.task2.Main" />
+        <item itemvalue="Application.lesson4lambda.task3.Main" />
         <item itemvalue="Application.Lesson3Interfaces.Main" />
         <item itemvalue="Application.Lesson2Extends.extra.Main" />
-        <item itemvalue="Application.Lesson2Extends.task3.Main" />
-        <item itemvalue="Application.Lesson2Extends.task2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -164,8 +155,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678265877083</updated>
       <workItem from="1678265878954" duration="12931000" />
-      <workItem from="1678362020642" duration="4166000" />
+      <workItem from="1678362020642" duration="5884000" />
+      <workItem from="1678464903204" duration="51000" />
+      <workItem from="1678791678265" duration="18201000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1678367184631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678367184631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,5 +182,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
